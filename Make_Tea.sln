@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Make_Tea", "Make_Tea.vcxproj", "{2A124E02-8930-4498-904D-A58D87C53FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Debug|x64.ActiveCfg = Debug|x64
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Debug|x64.Build.0 = Debug|x64
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Debug|x86.Build.0 = Debug|Win32
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Release|x64.ActiveCfg = Release|x64
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Release|x64.Build.0 = Release|x64
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Release|x86.ActiveCfg = Release|Win32
+		{2A124E02-8930-4498-904D-A58D87C53FA8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A33D2D-6214-4937-AD9C-A2F1521518BA}
+	EndGlobalSection
+EndGlobal
